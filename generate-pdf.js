@@ -17,7 +17,8 @@ async function generatePDF(inputFile, outputFile) {
     path: outputFile,
     format: 'A4',
     printBackground: true,
-    margin: { top: '0', right: '0', bottom: '0', left: '0' }
+    scale: 0.8,
+    margin: { top: '10mm', right: '10mm', bottom: '10mm', left: '10mm' }
   });
 
   await browser.close();

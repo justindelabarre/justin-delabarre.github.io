@@ -338,3 +338,9 @@ a:hover { text-decoration: underline; }
   .cv-main { width: 100%; padding: 28px 20px; border-right: none; border-bottom: 1px solid var(--color-border); }
   .cv-sidebar { width: 100%; padding: 28px 20px; }
 }
+
+@media print {
+  .cv-topbar { display: none; }
+  body { margin: 0; }
+  .cv-page { box-shadow: none; margin: 0; }
+}
