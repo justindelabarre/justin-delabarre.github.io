@@ -1,6 +1,6 @@
 # Justin Delabarre — CV Professionnel
 
-CV bilingue (FR/EN) de Data Analyst / Data Scientist, hébergé sur GitHub Pages et généré automatiquement en PDF via GitHub Actions.
+CV bilingue (FR/EN), hébergé sur GitHub Pages et généré automatiquement en PDF via GitHub Actions.
 
 🔗 **[Voir le CV en ligne](https://justindelabarre.github.io/)**
 
